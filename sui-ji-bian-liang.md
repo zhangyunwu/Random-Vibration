@@ -10,11 +10,15 @@
 
 **连续型随机变量\(continuous random variable\)**
 
-**概率\(probability\)** $$p_i(x_i) = P(X=x_i) (i=1,2,\cdots)$$
+**概率\(probability\)**
+
+$$p_i(x_i) = P(X=x_i) (i=1,2,\cdots)$$
 
 **概率分布\(probability distribution\)**
 
-**平均概率密度\(average probability density\)** $$\frac{P(x \le X < x+\Delta x)}{\Delta x}$$
+**平均概率密度\(average probability density\)**
+
+$$\frac{P(x \le X < x+\Delta x)}{\Delta x}$$
 
 **概率密度函数\(probability density function\)** $$\lim_{\Delta x \to 0} \frac{P(x \le X < x+\Delta x)}{\Delta x} = p(x)$$
 
