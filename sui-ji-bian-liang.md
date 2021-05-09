@@ -4,19 +4,19 @@
 
 ## 随机变量基本概念
 
-**随机变量\(random variable\)**
+**随机变量**(random variable)
 
-**离散型随机变量\(discrete random variable\)**
+**离散型随机变量**(discrete random variable)
 
-**连续型随机变量\(continuous random variable\)**
+**连续型随机变量**(continuous random variable)
 
-**概率\(probability\)**
+**概率**(probability)
 
 $$p_i(x_i) = P(X=x_i) (i=1,2,\cdots)$$
 
-**概率分布\(probability distribution\)**
+**概率分布**(probability distribution)
 
-**平均概率密度\(average probability density\)**
+**平均概率密度**(average probability density)
 
 $$\frac{P(x \le X < x+\Delta x)}{\Delta x}$$
 
